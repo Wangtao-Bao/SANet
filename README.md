@@ -53,7 +53,7 @@ On October 17, 2025, our paper was officially accepted by the ***Journal of Imag
 | NUDT-SIRST    | 95.73  | 95.43  |  99.26 | 2.80  |
 
 ## Citation
-If you found this project helpful, please give us a star. If HAFNet has inspired you, please consider citing it. Thank you!
+If you found this project helpful, please give us a star. If SANet has inspired you, please consider citing it. Thank you!
 ```
 @ARTICLE{JIG202603013,
   author={Yingmei Zhang and Wangtao Bao and Qin Xiao and Yong Yang and Weiguo Wan and Yitao Luo and Xueting Zou and Lei Zhang},
