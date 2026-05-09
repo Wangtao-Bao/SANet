@@ -1,5 +1,5 @@
 # 基于选择性注意力的红外小目标检测
-On October 17, 2025, our paper was officially accepted by the *Journal of Image and Graphics*（中国图象图形学报）. We sincerely thank all the reviewers and editors for their valuable comments and patient guidance during the review process, which played a crucial role in improving the quality of the paper. We are deeply honored and express our heartfelt gratitude for their support and assistance. [[Paper]](https://www.cjig.cn/zh/article/doi/10.11834/jig.250313/)
+On October 17, 2025, our paper was officially accepted by the ***Journal of Image and Graphics***（中国图象图形学报）. We sincerely thank all the reviewers and editors for their valuable comments and patient guidance during the review process, which played a crucial role in improving the quality of the paper. We are deeply honored and express our heartfelt gratitude for their support and assistance. [[Paper]](https://www.cjig.cn/zh/article/doi/10.11834/jig.250313/)
 
 ## Network
 ![outline](Fig/network.png)
